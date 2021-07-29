@@ -1,0 +1,16 @@
+body{
+    text-align:center;
+    background-image: url("student.png");
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style:oblique;
+}
+.button{
+    color:black;
+    font-size: 13px;
+}
